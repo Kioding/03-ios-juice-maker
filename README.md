@@ -75,8 +75,8 @@
     # ------------------
     ```
 
-    참고사이트
-
+- 참고사이트
+    - [야곰 아카데미](https://www.yagom-academy.kr/)
     - 좋은 커밋 메시지를 작성하기 위한 커밋 템플릿 만들어보기 : [https://junwoo45.github.io/2020-02-06-commit_template/](https://junwoo45.github.io/2020-02-06-commit_template/)
     - 커밋 메시지의 규칙 : [https://udacity.github.io/git-styleguide/](https://udacity.github.io/git-styleguide/)
     - [https://blog.munilive.com/posts/my-git-commit-guide.html](https://blog.munilive.com/posts/my-git-commit-guide.html)
